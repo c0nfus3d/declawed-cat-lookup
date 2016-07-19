@@ -1,0 +1,15 @@
+{
+  "name": "declawed-cat-lookup",
+  "version": "1.1.1",
+  "description": "cathaven.org declawed cat lookup",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Josh Richard <http://joshrichard.net>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.73.0"
+  }
+}
