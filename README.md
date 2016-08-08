@@ -12,9 +12,7 @@ After considering my options, I realized a declawed cat would be ideal; [don't w
 
 Using my [full-stack dev[eloper]](http://codeup.com/what-is-a-full-stack-developer/) skills, I quickly built a [Web scraping](https://en.wikipedia.org/wiki/Web_scraping) application to search in detail for me.
 
-    npm install
-
-    npm start
+    npm install && npm start
 
 Running the node application lists the cat with their current `Declawed` status
 
