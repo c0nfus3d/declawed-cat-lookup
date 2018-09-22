@@ -10,7 +10,7 @@ var fetchCat = function(url) {
     request({
         url: url,
         headers: {
-            'User-Agent': 'c0nfus3d <+http://theyconfuse.me/online>'
+            'User-Agent': 'c0nfus3d <+https://github.com/c0nfus3d>'
         }
     }, function(err, resp, body) {
         if (err) console.log(err);
@@ -30,7 +30,7 @@ var url = "http://www.petango.com/webservices/adoptablesearch/wsAdoptableAnimals
 request({
     url: url,
     headers: {
-        'User-Agent': 'c0nfus3d <+http://theyconfuse.me/online>'
+        'User-Agent': 'c0nfus3d <+https://github.com/c0nfus3d>'
     }
 }, function(err, resp, body) {
     if (err) console.log(err);
