@@ -24,7 +24,7 @@ var fetchCat = function(url) {
     });
 };
 
-/** Load of available cats */
+/** Load available cats */
 var url = "http://www.petango.com/webservices/adoptablesearch/wsAdoptableAnimals.aspx?species=Cat&sex=A&agegroup=All&location=&site=&onhold=A&orderby=ID&colnum=3&css=http://cathaven.ehclients.com/assets/css/catlistings.css&authkey=13bdekqnmlov3usxre52it28sxrj8dp1ghkpbfex523ooi2rd3&recAmount=&detailsInPopup=Yes&featuredPet=Include&stageID=";
 
 request({
